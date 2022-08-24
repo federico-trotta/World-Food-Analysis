@@ -1,13 +1,12 @@
-# World-Food-Production-Analysis
+# World Food Production Analysis
 
-This is the first complete Data Science project I publish and it is derived from the "data manipulation and visualization" project 
-for the course in Data Science I'm actually studying for.
+In this project I've analyzed the world food production, understanding the emissions for producing certain kind of food.
 
-The provided file is divided into chapters and derives from a Jupyter Notebook which has been used with a table of contents, linking every chapter.
-The analysis has been commented after every plot, so you will find a file which is something pretty similar to a research paper.
+I found the most produced products and the most polluting, in certain world area.
+Also, I've compared these results with the trand of the population and with the food waste, making some reasonings.
 
-Since I believe it is difficult to define when a Data Science project has finished, the last chapter provides furter analysis to do.
+If you are not "a technician" or if you just want to understand the main concepts without reading the code, you can take a look at the PDF I created.
 
-I'd appreciate every comment and advice.
+- [Here](https://github.com/federico-trotta/World-Food-Analysis/blob/main/PDF/ITALIAN/Analisi%20della%20produzione%20mondiale%20di%20cibo.pdf) you find the italian version
 
-Thanks for reading!
+If you are interested in the code, for a better visualization (due to the library "Plotly") you may take a look at the project on my Kaggle account [here](https://www.kaggle.com/code/federicotrotta/world-food-production-analysis)
